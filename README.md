@@ -12,11 +12,11 @@ Backend Developer with **3.5+ years of experience** building scalable web applic
 
 ### 🛠️ Tech Stack
 
-**Languages:** JavaScript, PHP
-**Backend & Frameworks:** Node.js, Express.js, Laravel, REST APIs
-**Databases:** MySQL, PostgreSQL, MongoDB
-**AI / LLM:** Google Gemini API, RAG, Embeddings, Semantic Search
-**Tools:** Git, AWS
+- **Languages:** JavaScript, PHP
+- **Backend & Frameworks:** Node.js, Express.js, Laravel, REST APIs
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **AI / LLM:** Google Gemini API, RAG, Embeddings, Semantic Search
+- **Tools:** Git, AWS
 
 ---
 
